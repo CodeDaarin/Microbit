@@ -20,3 +20,5 @@
     - Copy and paste the program into the website and click on 'Send to micro:bit'
 - Run "Colab_server_microbit.ipynb" in Google Colab
 - Run "Local_server_microbit.ipynb" in your VS Code or Conda Jupyter environment
+    - Once you run the second cell of the notebook if a microbit was detected, it will show in which of your ports it is connected.
+      i.e. In the notebook it is written as 'COM5', but it could be a different value depending on your computer and OS.
